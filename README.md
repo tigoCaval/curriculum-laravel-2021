@@ -6,7 +6,7 @@
 - PHP versão >= 7.3.23
 - Composer versão 2.0.11 - 2021-02-24
 - Framework Laravel versão 8.61.0
-- Template: https://github.com/laravel-frontend-presets/material-dashboard  
+- Template utilizado (modificado): https://github.com/laravel-frontend-presets/material-dashboard  
 
 ## Configuração
 - Testando projeto / Localhost 
