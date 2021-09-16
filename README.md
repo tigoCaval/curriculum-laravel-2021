@@ -1,4 +1,6 @@
 #  Script Cadastramento de currículo (Laravel-PHP)
+[![paypal](https://www.paypalobjects.com/pt_BR/BR/i/btn/btn_buynowCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9R5A2RSSRQYTN)
+
 
 ## Ferramentas e Versão
 
