@@ -25,4 +25,6 @@ Demonstração do produto: https://youtu.be/rYctAtwBy0k
 E-mail: tiagocavalcante57@gmail.com
 
 Após a compra realizada. Por favor, enviar um email com o assunto: "Script Cadastramento de currículo (Laravel-PHP)-2021",
-notificando o seu email e nome, o qual será enviado o link do código. 
+notificando o seu email e nome, para ser enviado o link do código (após a confirmação de pagamento).
+
+"Dias preferenciais de Segunda a Sexta (após a confirmação de pagamento, envio imediato)"
